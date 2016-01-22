@@ -25,14 +25,14 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>false</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
-      <authorizedKeys></authorizedKeys>
-    </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.16">
       <emailAddress>naresh.surampudi@baroc.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
       <passwordHash>#jbcrypt:$2a$10$/fEbxHIA4xPiJX3QfmvKzuSDBBp8277GX4uyUQF0tr300yLExz/..</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
+    <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
+      <authorizedKeys>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCb/ra8BwOeUzC0xdi2ItHarKv21kvAidUxW9tvrWi410Sv1dL21PN+sDsC5otL8ITM/dADK/9PueejL1G5arKpaqLJIujX556JNELCF5xd9NWfZHcCikXnx3ytTNnH2oVXHnd6SNOmezstoBlqq1Ac5uk+6LPirlY+dgVhAFnnayWU4ikbFXzx6N6ys0PliH8kw3KDU+Y12SPcR3+8pvBucyps9jHR0Z9SnkQ18N3msihgE4FUSqImsWsG79mACTvzVxlhLeBA9VtNMHKhebV5xnmDXgQ3c3Q7+LkptLma/j4FcmluFZZWM8XYojnjT5z+A2KA+c26x7Bh9/FQeh7Me+LgY1RKP4TBvglX7b/en8DW818K+HRbzLIKIrxA0xNPYZ8u9Z/yQmWAX9yskSXRItjUZz0mSEXLDkc82sBxAkGxk2O3rPN2WWQkLg8g5TmVQZTDfP9xRAODYUK0yySeBv+/Obd+tp1HQ7/XpWDztNgSlkElWWTlP4GHm3BsaSnFFTiMwXFoJtD9RaESw6dp8OpMtMXAsrnh667TmdaxT1khxAniXVXQJDGW6oqy6meIbodmPycAGXQD0X//R68lBh4tfk27uyOKDOkvD8KvlOkzrmTFzH+wLHLlfzGglsorY2a+xOHatN54zCL/ln+Rcy/2ngYnJON08ripuoyhCw== git@github.com</authorizedKeys>
+    </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
   </properties>
 </user>
