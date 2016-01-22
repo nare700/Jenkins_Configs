@@ -9,7 +9,7 @@
         <hudson.model.TextParameterDefinition>
           <name>test</name>
           <description></description>
-          <defaultValue>CheckGITParam</defaultValue>
+          <defaultValue>test_username</defaultValue>
         </hudson.model.TextParameterDefinition>
       </parameterDefinitions>
     </hudson.model.ParametersDefinitionProperty>
