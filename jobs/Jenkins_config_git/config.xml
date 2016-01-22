@@ -23,7 +23,8 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>echo &quot;This is testbuild&quot;</command>
+      <command>echo &quot;This is testbuild&quot;
+echo $test</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
