@@ -9,7 +9,7 @@
         <hudson.model.TextParameterDefinition>
           <name>test</name>
           <description></description>
-          <defaultValue>Test123</defaultValue>
+          <defaultValue>ChangeDefaultParameter</defaultValue>
         </hudson.model.TextParameterDefinition>
       </parameterDefinitions>
     </hudson.model.ParametersDefinitionProperty>
