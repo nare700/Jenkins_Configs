@@ -28,5 +28,8 @@
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.16">
       <emailAddress>naresh.surampudi@baroc.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <hudson.security.HudsonPrivateSecurityRealm_-Details>
+      <passwordHash>#jbcrypt:$2a$10$Hy5SHgi8w7wpmNgTiSvsTuQD8t9pX4EfaspCLjVlmiry47ZiQztRa</passwordHash>
+    </hudson.security.HudsonPrivateSecurityRealm_-Details>
   </properties>
 </user>
