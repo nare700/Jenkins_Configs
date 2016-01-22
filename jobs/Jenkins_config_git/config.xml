@@ -24,7 +24,9 @@
   <builders>
     <hudson.tasks.Shell>
       <command>echo &quot;This is testbuild&quot;
-echo $test</command>
+echo $test
+
+echo &quot;nav changes&quot;</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
