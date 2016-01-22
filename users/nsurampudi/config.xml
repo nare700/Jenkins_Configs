@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <user>
-  <fullName>nsurampudi</fullName>
+  <fullName>Naresh Surampudi</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
       <apiToken>6E+VvdbMNMyCBEvxshyrI+Uvv4eD3II87fZ0ZjaT3yUM46LVZsXNGDcC12yexpHB</apiToken>
@@ -25,14 +25,14 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>false</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.16">
-      <emailAddress></emailAddress>
-    </hudson.tasks.Mailer_-UserProperty>
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
       <passwordHash>#jbcrypt:$2a$10$o48yqj2nIbRv5K5bMTtgKeDARwNOkpbJqdWUkdWRvKvjytoCO9c26</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
     <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
       <authorizedKeys></authorizedKeys>
     </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.16">
+      <emailAddress>naresh.surampudi@baroc.com</emailAddress>
+    </hudson.tasks.Mailer_-UserProperty>
   </properties>
 </user>
