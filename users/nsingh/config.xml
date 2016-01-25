@@ -28,5 +28,8 @@
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.16">
       <emailAddress></emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <hudson.security.HudsonPrivateSecurityRealm_-Details>
+      <passwordHash>#jbcrypt:$2a$10$1dyrGi/.FnAabNsJ3lu82uO2w2Ymyac5CdeX9/mKxSkJsxtk4VnLi</passwordHash>
+    </hudson.security.HudsonPrivateSecurityRealm_-Details>
   </properties>
 </user>
