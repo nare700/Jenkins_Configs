@@ -33,14 +33,14 @@
       </roles>
       <timestamp>1453485034025</timestamp>
     </jenkins.security.LastGrantedAuthoritiesProperty>
-    <hudson.security.HudsonPrivateSecurityRealm_-Details>
-      <passwordHash>#jbcrypt:$2a$10$zy0KFpo978XrzYj8Sp2pCOEbjbnD.iXhVczLSYyG1NDNqvEfsD8xa</passwordHash>
-    </hudson.security.HudsonPrivateSecurityRealm_-Details>
     <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
       <authorizedKeys></authorizedKeys>
     </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.16">
       <emailAddress>naresh.surampudi@baroc.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <hudson.security.HudsonPrivateSecurityRealm_-Details>
+      <passwordHash>#jbcrypt:$2a$10$7UZUIaO67Pe9unp7kEgzYOSn5DvNlh0MOj6s4i23cdZXqyEcXFqdy</passwordHash>
+    </hudson.security.HudsonPrivateSecurityRealm_-Details>
   </properties>
 </user>
