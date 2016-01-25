@@ -31,5 +31,8 @@
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
       <passwordHash>#jbcrypt:$2a$10$1dyrGi/.FnAabNsJ3lu82uO2w2Ymyac5CdeX9/mKxSkJsxtk4VnLi</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
+    <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
+      <authorizedKeys></authorizedKeys>
+    </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
   </properties>
 </user>
