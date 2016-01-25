@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <user>
-  <fullName>Naresh Surampudi</fullName>
+  <fullName>nsurampudi</fullName>
   <description></description>
   <properties>
     <jenkins.security.ApiTokenProperty>
@@ -9,9 +9,6 @@
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@1.24">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.16">
-      <emailAddress>naresh.surampudi@baroc.com</emailAddress>
-    </hudson.tasks.Mailer_-UserProperty>
     <hudson.model.MyViewsProperty>
       <primaryViewName></primaryViewName>
       <views>
@@ -42,5 +39,8 @@
       </roles>
       <timestamp>1453485034025</timestamp>
     </jenkins.security.LastGrantedAuthoritiesProperty>
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.16">
+      <emailAddress></emailAddress>
+    </hudson.tasks.Mailer_-UserProperty>
   </properties>
 </user>
