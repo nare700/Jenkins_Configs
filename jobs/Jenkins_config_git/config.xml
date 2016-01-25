@@ -7,7 +7,7 @@
     <hudson.model.ParametersDefinitionProperty>
       <parameterDefinitions>
         <hudson.model.TextParameterDefinition>
-          <name>test</name>
+          <name>testxxxx</name>
           <description></description>
           <defaultValue>test_username</defaultValue>
         </hudson.model.TextParameterDefinition>
