@@ -25,14 +25,14 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>false</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
-      <authorizedKeys></authorizedKeys>
-    </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.16">
       <emailAddress>Navdeep.singh@barco.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
       <passwordHash>#jbcrypt:$2a$10$skgtoCz8JVZwGHu311XIVOd2qAFSUmWTAF1vX6uN8Ki5T0.XO38oq</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
+    <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
+      <authorizedKeys>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHviwc8xn1UnNtNadOwQLKYyPqyTKR4/CfKN0pWstpBFb+ocDGR2sp1mBmcb131dln+hetheLmzS1XeRoKWRuOf286V8LIEpvc+fUc9kklOBpLR9p4miX8LMKRqmha+Ib4rx7U5ETJoIG3sR8rusESTRmZoK/qIE/hBAYQjsVU7lcrEoCeGXpoSjHAQDCizTm1C21Ftl0XISCj8FTihfpNIVIk5eVmKtLeTdvp/yTXrCkc1tz4mEhkjUfDb+Ens8OXZ7CwcvIceU/gsjR+zxWekEGTpIbfmGJrQAei/67bpSpa8YkslfFs1oPuXNKW+udqPgKNtDaXxefouQwnU99B temp</authorizedKeys>
+    </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
   </properties>
 </user>
