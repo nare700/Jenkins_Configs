@@ -29,7 +29,7 @@ echo $test
 echo &quot;nav changes&quot;</command>
     </hudson.tasks.Shell>
     <hudson.tasks.Shell>
-      <command>echo &quot;nav test&quot;</command>
+      <command>echo &quot;nav test2&quot;</command>
     </hudson.tasks.Shell>
     <hudson.tasks.BatchFile>
       <command>echo &quot;demo to wouter&quot;</command>
